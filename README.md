@@ -56,9 +56,6 @@
 
  # 이미지
 
- ![HEROPY](https://heropy.blog/css/images/logo.png)
-
- [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/css/images/logo.png)
 
  # 인용문(BlockQuote)
 
@@ -110,7 +107,6 @@
 
  <a href="https://naver.com" title="NAVER로 이동!" targer="_blank">NAVER</a>
 
- <img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY">
 
  # 수평선(Horizontal Rule)
  
